@@ -13,14 +13,14 @@ return [
 	'widgets:index_members:name' => "Uživatelé",
 	'widgets:index_members:description' => "Zobrazuje uživatele vašich stránek",
 	'widgets:index_members:user_icon' => "Pouze uživatelé s portrétem",
-	'widgets:index_members:no_result' => "Nebyli nalezení žádní uživatelé",
+	'widgets:index_members:no_result' => "Žádní uživatelé",
 
 	// index_memebers_online
-	'widgets:index_members_online:name' => "Kdo je online",
-	'widgets:index_members_online:description' => "Zobrazuje kdo je na vašich stránkách online",
+	'widgets:index_members_online:name' => "Přihlášení uživatelé",
+	'widgets:index_members_online:description' => "Zobrazuje kdo je na přihlášen k vašim stránkám",
 	'widgets:index_members_online:member_count' => "Počet zobrazených uživatelů",
 	'widgets:index_members_online:user_icon' => "Pouze uživatelé s portrétem",
-	'widgets:index_members_online:no_result' => "Nebyli nalezení žádní uživatelé",
+	'widgets:index_members_online:no_result' => "Žádní přihlášení uživatelé",
 
 	// index_activity
 	'widgets:index_activity:description' => "Zobrazuje nejnovější aktivitu na vašich stránkách",
